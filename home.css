@@ -31,7 +31,6 @@ footer{
 
 .row:after
 {
-  content:"hey";
   display:table;
   clear: both;
 }
