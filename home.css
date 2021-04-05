@@ -13,7 +13,9 @@ h1
  .upper
 {
    background-color : #E0E0E0;
-   text-align : center;'
+   text-align : center;
+  height: 100px;
+  width : 1000px ;
   font-size : 10px;
 }
 
