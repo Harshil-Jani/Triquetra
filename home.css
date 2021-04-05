@@ -23,3 +23,15 @@ footer{
        width: 100%;
    } 
 
+.column
+{
+  float: left;
+  width : 50%;
+}
+
+.row:after
+{
+  content:"hey";
+  display:table;
+  clear: both;
+}
