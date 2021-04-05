@@ -5,11 +5,6 @@ h1
   color : white ;
   text-align : center;
 }
-nav{
-  height : 50px ;
-  width : 100px ;
-  font-size : 40px ;
-}
 .topbg
 {
   background-color : black ;
@@ -19,5 +14,8 @@ nav{
 {
    background-color : #E0E0E0;
    text-align : center;
+   height : 50px ;
+  width : 100px ;
+  font-size : 40px ;
 }
 
