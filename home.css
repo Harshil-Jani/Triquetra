@@ -21,13 +21,14 @@ h1
 {
   float: left;
   width : 50%;
-  border : 2px double green ;
+
 }
 
 .row:after
 {
   display:table;
   clear: both;
+  border : 2px double green ;
  }
 
 footer
