@@ -9,7 +9,10 @@ h1
 {
   background-color : black ;
 }
-
+.lowbg
+{
+  backgroung-color : black ;
+}
  .upper
 {
    background-color : #E0E0E0;
