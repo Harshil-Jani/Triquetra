@@ -36,3 +36,9 @@ h1
   padding-bottom : 20px; 
 }
 
+.notice
+{
+  border-style: dashed;
+  border-width : medium;
+}
+
