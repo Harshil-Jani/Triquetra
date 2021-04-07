@@ -38,7 +38,7 @@ h1
 
 .notice
 {
-  border-style: dashed;
+  border-style: inset;
   border-width : medium;
 }
 
