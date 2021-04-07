@@ -21,6 +21,7 @@ h1
 {
   float: left;
   width : 50%;
+  border-style: inset;
 
 }
 
@@ -28,6 +29,7 @@ h1
 {
   display:table;
   clear: both;
+  border-style: inset;
  
  }
 
