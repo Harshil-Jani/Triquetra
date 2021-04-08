@@ -17,21 +17,6 @@ h1
   font-size : 20px;
 }
 
-.column
-{
-  float: left;
-  width : 50%;
-  
-
-}
-
-.row:after
-{
-  display:table;
-  clear: both;
-
- }
-
 .gallery
 {
   padding-bottom : 20px; 
