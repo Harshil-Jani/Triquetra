@@ -79,3 +79,10 @@ div.Gallery img {
 .white-text{
   font-color : white;
 }
+
+.column
+{
+  border-style: inset;
+  
+  
+}
