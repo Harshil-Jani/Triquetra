@@ -80,9 +80,11 @@ div.Gallery img {
 }
 .panel_1{
  margin-bottom: 0px; 
+ background-color : #F69942;
 }
 .panel_4{
   margin-top:0px; margin-bottom: 20px;
+  background-color : #F5BFB5;
 }
 .Acad_center{
    display: flex;height: 40px;align-items: center;justify-content: center;background: white;"
