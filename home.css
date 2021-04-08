@@ -78,4 +78,15 @@ div.Gallery img {
   width: 100%;
   height: auto;
 }
-
+.panel_1{
+ margin-bottom: 0px; 
+}
+.panel_4{
+  margin-top:0px; margin-bottom: 20px;
+}
+.Acad_center{
+   display: flex;height: 40px;align-items: center;justify-content: center;background: white;"
+}
+.white-text{
+  font-color : white;
+}
