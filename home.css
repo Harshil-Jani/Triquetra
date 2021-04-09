@@ -134,12 +134,12 @@ div.Gallery img {
   color: white;
 }
 
-.row:after {
+.row1:after {
   content: "";
   display: table;
   clear: both;
 }
-.column {
+.column1 {
   float: left;
   width: 16.66%;
 }
