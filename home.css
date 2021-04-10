@@ -47,21 +47,7 @@ footer
   text-align : center;
 }
 
-div.Gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
 
-div.Gallery:hover {
-  border: 1px solid #777;
-}
-
-div.Gallery img {
-  width: 100%;
-  height: auto;
-}
 .panel_1{
  margin-bottom: 0px; 
  background-color : #F69942;
