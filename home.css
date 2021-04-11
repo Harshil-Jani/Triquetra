@@ -33,6 +33,7 @@ h1
 .lib_col1{
   width: 300px ;
   height : 200px ;
+  
 }
 .lib_col2{
   width: 40% ;
@@ -72,3 +73,26 @@ footer
   
 }
 
+.first
+{
+   border-style: outset;
+  border-width : medium;
+}
+
+.second
+{
+  border-style: outset;
+  border-width : medium;
+}
+
+.third
+{
+  border-style: outset;
+  border-width : medium;
+}
+
+.fourth
+{
+  border-style: outset;
+  border-width : medium;
+}
